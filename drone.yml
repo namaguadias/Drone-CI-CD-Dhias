@@ -42,6 +42,7 @@ services:
 # trigger drone saat ada event push pada branch master
 # kita bisa setup trigger dengan branch, atau event, atau branch dan event
 # pada kasus kali ini, kita menggunakan branch dan event
+#bebsas
 trigger:
   branch:
   - main
